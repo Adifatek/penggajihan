@@ -7,7 +7,7 @@
     </div>
     <div class="col-md-6">
         <a href="{{route('ruang.index')}}" class="btn btn-primary btn-sm float-end">
-            <i class="fa fa-plus-circle"></i> Kembali
+            <i class="fa fa-arrow-circle-left"></i> Kembali
         </a>
     </div>
    </div>
